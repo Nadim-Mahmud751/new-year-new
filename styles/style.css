@@ -131,3 +131,31 @@ button{
     color: rgb(149, 149, 149);
     font-weight: 400;
 }
+/* styles add  */
+#add .add-body{
+    width: 100%;
+    border-radius: 10px;
+    background: url(/images/watch.png);
+}
+#add .add-body .wrapper{
+    padding: 50px;
+    border-radius: 10px;
+    background: url(/images/gradient2.png);
+}
+#add .add-body .wrapper h1{
+    font-size: 42px;
+    color: white;
+    width: 50%;
+    padding-bottom: 30px;
+}
+#add .add-body .wrapper button{
+    border: none;
+    outline: none;
+    padding: 18px 25px;
+    background-color: white;
+    color: rgb(225, 98, 0);
+    font-size: 19px;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
